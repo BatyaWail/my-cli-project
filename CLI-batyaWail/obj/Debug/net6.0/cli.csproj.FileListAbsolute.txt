@@ -1,0 +1,150 @@
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.exe
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.deps.json
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.runtimeconfig.json
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.pdb
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\System.CommandLine.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.AssemblyInfo.cs
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.CopyComplete
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\refint\cli.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.pdb
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.genruntimeconfig.cache
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\ref\cli.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.exe
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.runtimeconfig.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\System.CommandLine.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.CopyComplete
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\refint\cli.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.genruntimeconfig.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\ref\cli.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.exe
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.deps.json
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.runtimeconfig.json
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cli.pdb
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\System.CommandLine.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.AssemblyInfo.cs
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.CopyComplete
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\refint\cli.dll
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.pdb
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\cli.genruntimeconfig.cache
+Y:\Groups\Group_3\ווייל  בתיה\פרקטיקוד\14-01פרקטיקוד\CLI-batyaWail\CLI-batyaWail\obj\Debug\net6.0\ref\cli.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cli.exe
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cli.deps.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cli.runtimeconfig.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cli.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cli.pdb
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\System.CommandLine.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.AssemblyInfo.cs
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.CopyComplete
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\refint\cli.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.pdb
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.genruntimeconfig.cache
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\ref\cli.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cli.exe
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cli.deps.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cli.runtimeconfig.json
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cli.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cli.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\System.CommandLine.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.AssemblyReference.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.AssemblyInfoInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.AssemblyInfo.cs
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.csproj.CopyComplete
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\refint\cli.dll
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.pdb
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\cli.genruntimeconfig.cache
+C:\Users\User\Documents\!תכנות\שנה ב\פרקטיקוד\14-01פרקטיקוד\experienc1\CLI-batyaWail\obj\Debug\net6.0\ref\cli.dll

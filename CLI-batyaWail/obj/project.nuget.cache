@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MI027mNykYrhqxT0Dj2p35CPbK/EgjrLjNRFqSSauIY6zowstAsbkpWfN2mkpFQrIS4YldZQsdMiZKhSKxxniw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\!תכנות\\שנה ב\\פרקטיקוד\\14-01פרקטיקוד\\experienc1\\CLI-batyaWail\\cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
